@@ -56,7 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
@@ -76,8 +75,7 @@
 
 ### 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1AF7E4&center=true&vCenter=true&width=500&lines=✨+Passionate+about+Programming+✨;✨+Web+Development+and+Design+✨" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com size=22&duration=3000&color=1AF7E4&center=true&vCenter=true&width=500&lines=✨+Passionate+about+Programming+✨;✨+Web+Development+and+Design+✨" alt="Typing Animation" />
 </p>
+
 
