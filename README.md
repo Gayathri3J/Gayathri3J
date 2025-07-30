@@ -58,8 +58,13 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrij&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gayathrij&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gayathrij&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayathrij&layout=compact&theme=radical" alt="Top languages"/>
+</p>
+
 
 ---
 
@@ -69,6 +74,10 @@
 
 ---
 
+### 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF7E4&center=true&vCenter=true&width=435&lines=✨+Passionate+about+Programming+✨;✨+Web+Development+and+Design+✨" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1AF7E4&center=true&vCenter=true&width=500&lines=✨+Passionate+about+Programming+✨;✨+Web+Development+and+Design+✨" alt="Typing SVG" />
+  </a>
 </p>
+
