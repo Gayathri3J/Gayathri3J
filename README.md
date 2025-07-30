@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">Currently expanding my expertise in MERN Stack Development</h3>
-<p align="center">🚀 Turning coffee into code | Building digital experiences</p>
+<p align="center">🍵 Turning coffee into code | Building digital experiences</p>
 
 <p align="center">
   <a href="mailto:gayathrij263@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -18,7 +18,7 @@
 
 ## 👩‍💻 About Me
 
-- 🌱 Currently expanding my expertise in **MERN Stack Development**
+- 🪸 Currently expanding my expertise in **MERN Stack Development**
 - 💼 Check out my projects in [My Repositories](https://github.com/gayathrij?tab=repositories)
 - 💬 Ask me about **JavaScript, Node.js, React, MongoDB, Express.js, Python, Java, C programming**
 - 📫 Reach me at: **gayathrij263@gmail.com**
@@ -74,5 +74,8 @@
 ---
 
 ### 
-<p align="center">✨ Passionate about programming and web development ✨</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1AF7E4&center=true&vCenter=true&width=600&lines=✨+Passionate+about+Programming+✨;✨+Web+Development+and+Design+✨" alt="Typing SVG" />
+</p>
+
 
