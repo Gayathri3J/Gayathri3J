@@ -71,3 +71,9 @@
 
 **Data Structures & Algorithms | Full Stack Development | API Integration | Database Design**
 
+---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1AF7E4&center=true&vCenter=true&width=600&lines=✨+Passionate+about+Programming+✨;✨+Web+Development+and+Design+✨" alt="Typing SVG" />
+</p>
+
+
